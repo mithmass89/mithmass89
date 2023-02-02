@@ -19,9 +19,9 @@ const anmol = {
         devOps: ["AWS", "Docker🐳"],
         databases: ["mongo", "MySql", "postgreSQL", "redis"],
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Serverless Architecture", "Single page applications"],
     currentFocus: "Named Entity Classification and Recognition",
-    businessApplicationArea: "e-commerce","social media",
+    businessApplicationArea: "Hospitality","Marketing tools",
 };
 ```
 
