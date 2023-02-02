@@ -1,6 +1,6 @@
 <h2>Hello, I'm Niko Cahya!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.kipaskipas.com">KipasKipas</a>
+
 </em>  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
 
 
